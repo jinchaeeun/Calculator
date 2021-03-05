@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="zeroBTN">0</string>
+    <string name="delBTN">DEL</string>
+    <string name="sevenBTN">7</string>
+    <string name="eightBTN">8</string>
+    <string name="nineBTN">9</string>
+    <string name="sixBTN">6</string>
+    <string name="fiveBTN">5</string>
+    <string name="fourBTN">4</string>
+    <string name="threeBTN">3</string>
+    <string name="twoBTN">2</string>
+    <string name="oneBTN">1</string>
+    <string name="equalBTN">=</string>
+    <string name="divisionBTN">/</string>
+    <string name="multiplyBTN">*</string>
+    <string name="minusBTN">-</string>
+    <string name="plusBTN">+</string>
+</resources>
